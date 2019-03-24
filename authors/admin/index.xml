@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on @ameliazein</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in Admin on @ameliazein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2019 14:00:00 +0700</lastBuildDate>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Selamat datang [Welcome]!</title>
+      <link>/post/selamat-datang/</link>
+      <pubDate>Thu, 14 Feb 2019 14:00:00 +0700</pubDate>
+      
+      <guid>/post/selamat-datang/</guid>
+      <description>Hi everyone! Welcome to my very first personal website. I&amp;rsquo;m so excited when figuring out that blogdown package is easier to manage than I previously thought. I&amp;rsquo;ll regularly post my random thoughts here, either in Bahasa or in English. As a bonus, here I present a photo of Urquhart Castle and Loch Ness from my solo trip to Inverness - just shortly after my master graduation. I fell in love with this place and was thinking about Scotland when I wrote this first post.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on @ameliazein</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on @ameliazein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 11:45:00 +0700</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multigroup Structural Equation Modelling with Ωnyx</title>
+      <link>/talk/mgsem-2019/</link>
+      <pubDate>Wed, 13 Feb 2019 11:45:00 +0700</pubDate>
+      
+      <guid>/talk/mgsem-2019/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Multilevel Modelling with jamovi</title>
+      <link>/talk/mlm-2019/</link>
+      <pubDate>Wed, 13 Feb 2019 11:45:00 +0700</pubDate>
+      
+      <guid>/talk/mlm-2019/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
