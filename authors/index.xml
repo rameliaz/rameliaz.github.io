@@ -6,10 +6,19 @@
     <description>Recent content in Authors on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0700</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0700</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**Rizqy Amelia Zein**</title>
@@ -21,20 +30,56 @@
     </item>
     
     <item>
-      <title>Admin</title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0700</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Anang Rianto</title>
       <link>/authors/anang-rianto/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/anang-rianto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fendy Suhariadi</title>
+      <link>/authors/fendy-suhariadi/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fendy-suhariadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilham Akhsanu Ridlo</title>
+      <link>/authors/ilham-akhsanu-ridlo/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ilham-akhsanu-ridlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ratna Dwi Wulandari</title>
+      <link>/authors/ratna-dwi-wulandari/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ratna-dwi-wulandari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiwin Hendriani</title>
+      <link>/authors/wiwin-hendriani/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wiwin-hendriani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuzulul Kusuma Putri</title>
+      <link>/authors/nuzulul-kusuma-putri/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/nuzulul-kusuma-putri/</guid>
       <description></description>
     </item>
     
@@ -57,15 +102,6 @@
     </item>
     
     <item>
-      <title>Fendy Suhariadi</title>
-      <link>/authors/fendy-suhariadi/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/fendy-suhariadi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Herison Purba</title>
       <link>/authors/herison-purba/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
@@ -75,47 +111,11 @@
     </item>
     
     <item>
-      <title>Ilham Akhsanu Ridlo</title>
-      <link>/authors/ilham-akhsanu-ridlo/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ilham-akhsanu-ridlo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Marta Marchlewska</title>
       <link>/authors/marta-marchlewska/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/marta-marchlewska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nuzulul Kusuma Putri</title>
-      <link>/authors/nuzulul-kusuma-putri/</link>
-      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/nuzulul-kusuma-putri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ratna Dwi Wulandari</title>
-      <link>/authors/ratna-dwi-wulandari/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ratna-dwi-wulandari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wiwin Hendriani</title>
-      <link>/authors/wiwin-hendriani/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/wiwin-hendriani/</guid>
       <description></description>
     </item>
     

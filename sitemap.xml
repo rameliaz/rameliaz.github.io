@@ -1,11 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
-      <loc>/post/teori-konspirasi-1/</loc>
-      <lastmod>2019-04-25T07:26:00+07:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/komunikasi-sains/</loc>
+      <lastmod>2019-04-25T07:28:30+07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -14,6 +41,67 @@
     
       <loc>/post/peragu-sains/</loc>
       <lastmod>2019-04-10T15:05:36+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/sains-dan-masyarakat/</loc>
+      <lastmod>2019-04-25T07:28:30+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/bimbingan-mahasiswa/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/akademik/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/casual/</loc>
+      <lastmod>2019-05-30T05:50:00+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/teori-konspirasi-1/</loc>
+      <lastmod>2019-04-25T07:28:30+07:00</lastmod>
     </url>
     
   
@@ -44,64 +132,7 @@
     
     <url>
     
-      <loc>/publication/protectingtb/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/justicejkn/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/condomemoji/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/explicitvsimpicit/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/whatsthematter/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/author/admin/</loc>
-      <lastmod>2019-04-15T20:15:54+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/rizqy-amelia-zein/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -119,24 +150,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2019-04-25T07:26:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/admin/</loc>
-      <lastmod>2019-04-25T07:26:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/anang-rianto/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
       <priority>0</priority>
@@ -146,15 +159,7 @@
     
     <url>
     
-      <loc>/author/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/</loc>
+      <loc>/authors/fendy-suhariadi/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -163,7 +168,77 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/authors/ilham-akhsanu-ridlo/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/protectingtb/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ratna-dwi-wulandari/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/wiwin-hendriani/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/justicejkn/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nuzulul-kusuma-putri/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/condomemoji/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -189,9 +264,8 @@
     
     <url>
     
-      <loc>/authors/fendy-suhariadi/</loc>
+      <loc>/publication/explicitvsimpicit/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -200,24 +274,6 @@
     
       <loc>/authors/herison-purba/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/ilham-akhsanu-ridlo/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/komunikasi-sains/</loc>
-      <lastmod>2019-04-25T07:26:00+07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -234,8 +290,23 @@
     
     <url>
     
-      <loc>/authors/nuzulul-kusuma-putri/</loc>
+      <loc>/publication/whatsthematter/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/admin/</loc>
+      <lastmod>2019-04-25T07:28:30+07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -243,16 +314,7 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -268,53 +330,8 @@
     
     <url>
     
-      <loc>/authors/ratna-dwi-wulandari/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/sains-dan-masyarakat/</loc>
-      <lastmod>2019-04-25T07:26:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-04-25T07:26:00+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/wiwin-hendriani/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/casual/</loc>
-      <lastmod>2019-03-24T17:49:50+07:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

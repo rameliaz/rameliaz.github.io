@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>casual on @ameliazein</title>
-    <link>/tags/casual/</link>
-    <description>Recent content in casual on @ameliazein</description>
+    <title>akademik on @ameliazein</title>
+    <link>/tags/akademik/</link>
+    <description>Recent content in akademik on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 May 2019 14:00:00 +0700</lastBuildDate>
     
-	<atom:link href="/tags/casual/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/akademik/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/post/bimbingan-mahasiswa/</guid>
       <description>Apa saja yang harus diketahui mahasiswa sebelum menyepakati jadwal bimbingan?</description>
-    </item>
-    
-    <item>
-      <title>Selamat datang [Welcome]!</title>
-      <link>/post/selamat-datang/</link>
-      <pubDate>Thu, 14 Feb 2019 14:00:00 +0700</pubDate>
-      
-      <guid>/post/selamat-datang/</guid>
-      <description>A welcome message to everyone</description>
     </item>
     
   </channel>
