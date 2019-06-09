@@ -14,17 +14,20 @@
       <pubDate>Sun, 09 Jun 2019 00:00:00 +0700</pubDate>
       
       <guid>/courses/cm_personality-psych/</guid>
-      <description>
+      <description>&lt;p&gt;This course is designed to make students understand how personality can influence behavior. This course will ask the students to understand personality theories by analysing a famous person auto/biography using their chosen personality theory.&lt;/p&gt;
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;By the end of this course, students should be able to: &lt;br&gt;
+- Identify particular characters of well-known personality approaches and aspects that bulid personality, also analyse students&amp;rsquo; own experiences and recent research in personality &lt;/br&gt;
+- Explain behavior pattern and dynamics based on specific personality theories &lt;br&gt;
+- Identify proper responses (cognitive, affective) referred to specific personality theories by having immediate experience &lt;/br&gt;
+- Explain individual differences based on personality theories and the immediate experience &lt;br&gt;
+&lt;/br&gt;
+Available slides: &lt;br&gt;
+- &lt;a href=&#34;https://rameliaz.github.io/files/course-materials/personality_freud.pdf&#34; target=&#34;_blank&#34;&gt;Freud&amp;rsquo;s Psychoanalysis&lt;/a&gt; &lt;/br&gt;
+- &lt;a href=&#34;https://rameliaz.github.io/files/course-materials/personality_eysenck_big5.pptx&#34; target=&#34;_blank&#34;&gt;Eysenck&amp;rsquo;s Behavioural Genetics &amp;amp; McCrae &amp;amp; Costa&amp;rsquo;s Five Factor Model&lt;/a&gt; &lt;br&gt;
+- &lt;a href=&#34;https://rameliaz.github.io/files/course-materials/personality_dt_hexaco.pptx&#34; target=&#34;_blank&#34;&gt;The Dark Triad Personality &amp;amp; HEXACO&lt;/a&gt; &lt;/br&gt;
+- &lt;a href=&#34;https://rameliaz.github.io/files/course-materials/personality_Cog_Humanistic.pptx&#34; target=&#34;_blank&#34;&gt;Cognitive &amp;amp; Humanistic Approaches&lt;/a&gt; &lt;br&gt;
+&lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -328,19 +331,16 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0700</pubDate>
       
       <guid>/courses/course-materials/</guid>
-      <description>&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
+      <description>&lt;p&gt;I will share all materials from all undergraduate course I taught here to the public. Slides are licensed &lt;a href=&#34;https://creativecommons.org&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/a&gt;, so everyone is welcome to share and reproduce the slides.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Here is the list of my taught courses in 2019:&lt;/p&gt;
 
-&lt;p&gt;The parent folder may be renamed, for example, to &lt;code&gt;docs&lt;/code&gt; for project documentation or &lt;code&gt;course&lt;/code&gt; for creating an online course.&lt;/p&gt;
-
-&lt;p&gt;To disable this feature, either delete the parent folder, or set &lt;code&gt;draft = true&lt;/code&gt; in the front matter of all its pages.&lt;/p&gt;
-
-&lt;p&gt;After renaming or deleting the parent folder, you may wish to update any &lt;code&gt;[[menu.main]]&lt;/code&gt; menu links to it in the &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Even Semester (&lt;sup&gt;2018&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2019&lt;/sub&gt;)&lt;/strong&gt;&lt;br&gt;
+- &lt;a href=&#34;https://rameliaz.github.io/courses/cm_personality-psych&#34; target=&#34;_blank&#34;&gt;Personality Psychology&lt;/a&gt; (Double Degree Programme - taught in English) &lt;/br&gt;
+- Quantitative Research Method and Data Analysis &lt;br&gt;
+- Community Mental Health &lt;/br&gt;
+- Philosophy of Science &lt;br&gt;
+- Human Philosophy &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
