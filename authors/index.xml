@@ -6,7 +6,7 @@
     <description>Recent content in Authors on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 14:00:00 +0700</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Admin</title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 19 Feb 2020 00:00:00 +0700</pubDate>
+      <pubDate>Thu, 30 May 2019 14:00:00 +0700</pubDate>
       
       <guid>/authors/admin/</guid>
       <description></description>
@@ -23,9 +23,45 @@
     <item>
       <title>**Rizqy Amelia Zein**</title>
       <link>/authors/rizqy-amelia-zein/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/rizqy-amelia-zein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dewi Syarifah</title>
+      <link>/authors/dewi-syarifah/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dewi-syarifah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominika Maison</title>
+      <link>/authors/dominika-maison/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dominika-maison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herison Purba</title>
+      <link>/authors/herison-purba/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/herison-purba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Marchlewska</title>
+      <link>/authors/marta-marchlewska/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/marta-marchlewska/</guid>
       <description></description>
     </item>
     
@@ -80,42 +116,6 @@
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/nuzulul-kusuma-putri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dewi Syarifah</title>
-      <link>/authors/dewi-syarifah/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dewi-syarifah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dominika Maison</title>
-      <link>/authors/dominika-maison/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dominika-maison/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herison Purba</title>
-      <link>/authors/herison-purba/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/herison-purba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marta Marchlewska</title>
-      <link>/authors/marta-marchlewska/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/marta-marchlewska/</guid>
       <description></description>
     </item>
     

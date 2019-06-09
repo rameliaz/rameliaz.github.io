@@ -6,26 +6,17 @@
     <description>Recent content in Tags on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Komunikasi Sains</title>
-      <link>/tags/komunikasi-sains/</link>
-      <pubDate>Wed, 19 Feb 2020 00:00:00 +0700</pubDate>
+      <title>PSA</title>
+      <link>/tags/psa/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0700</pubDate>
       
-      <guid>/tags/komunikasi-sains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sains dan Masyarakat</title>
-      <link>/tags/sains-dan-masyarakat/</link>
-      <pubDate>Wed, 19 Feb 2020 00:00:00 +0700</pubDate>
-      
-      <guid>/tags/sains-dan-masyarakat/</guid>
+      <guid>/tags/psa/</guid>
       <description></description>
     </item>
     
@@ -44,6 +35,33 @@
       <pubDate>Thu, 30 May 2019 14:00:00 +0700</pubDate>
       
       <guid>/tags/casual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Komunikasi Sains</title>
+      <link>/tags/komunikasi-sains/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/tags/komunikasi-sains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sains dan Masyarakat</title>
+      <link>/tags/sains-dan-masyarakat/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/tags/sains-dan-masyarakat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0700</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
