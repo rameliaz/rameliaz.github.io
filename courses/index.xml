@@ -43,27 +43,23 @@ Even Semester (2018&amp;frasl;2019)
     </item>
     
     <item>
-      <title>Research Methods</title>
-      <link>/courses/research-methods/</link>
+      <title>Dari Alfa ke Omega</title>
+      <link>/courses/st_omega/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0700</pubDate>
       
-      <guid>/courses/research-methods/</guid>
-      <description>This feature can be used for publishing content such as:
- Project or software documentation Online courses Tutorials  The parent folder may be renamed, for example, to docs for project documentation or course for creating an online course.
-To disable this feature, either delete the parent folder, or set draft = true in the front matter of all its pages.
-After renaming or deleting the parent folder, you may wish to update any [[menu.</description>
+      <guid>/courses/st_omega/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Statistics</title>
+      <title>Methods &amp; Statistics</title>
       <link>/courses/stats/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0700</pubDate>
       
       <guid>/courses/stats/</guid>
-      <description>This feature can be used for publishing content such as:
- Project or software documentation Online courses Tutorials  The parent folder may be renamed, for example, to docs for project documentation or course for creating an online course.
-To disable this feature, either delete the parent folder, or set draft = true in the front matter of all its pages.
-After renaming or deleting the parent folder, you may wish to update any [[menu.</description>
+      <description>I&amp;rsquo;m committed to promote good ways to do stats by making short tutorials to improve stats and methodological practices. And this is not limited to psych people, but also to other researchers from any disciplines who also use stats for their research.
+Everything I post here are licensed , so everyone is welcome to share and reproduce everything.
+If you think this tutorials all helpful, please pass on to your colleagues, students, etc.</description>
     </item>
     
   </channel>
