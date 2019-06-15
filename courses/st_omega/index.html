@@ -28,7 +28,8 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Tidak ada teknik estimasi reliabilitas yang populernya melebihi Cronbach&rsquo;s α (CA). Di nyaris seluruh laporan penelitian yang kita baca, penulis hampir selalu melaporkan CA sebagai teknik yang mereka gunakan untuk mengestimasi reliabilitas skala. Menariknya, penggunaan CA tidak hanya terbatas di riset-riset Psikologi saja, melainkan juga digunakan di banyak penelitian di displin ilmu lainnya yang menggunakan asesmen/skala psikologis (baik kognitif, maupun non-kognitif).
+Yang belum banyak diketahui, sudah banyak sekali literatur yang menyebutkan bahwa CA juga bersyarat, meskipun kemudian banyak peneliti tetap aja menggunakan CA tanpa membaca terms &amp; condition-nya terlebih dahulu.">
 
   
   <link rel="alternate" hreflang="en-us" href="/courses/st_omega/">
@@ -137,7 +138,8 @@
   <meta property="og:site_name" content="@ameliazein">
   <meta property="og:url" content="/courses/st_omega/">
   <meta property="og:title" content="Dari Alfa ke Omega | @ameliazein">
-  <meta property="og:description" content=""><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="Tidak ada teknik estimasi reliabilitas yang populernya melebihi Cronbach&rsquo;s α (CA). Di nyaris seluruh laporan penelitian yang kita baca, penulis hampir selalu melaporkan CA sebagai teknik yang mereka gunakan untuk mengestimasi reliabilitas skala. Menariknya, penggunaan CA tidak hanya terbatas di riset-riset Psikologi saja, melainkan juga digunakan di banyak penelitian di displin ilmu lainnya yang menggunakan asesmen/skala psikologis (baik kognitif, maupun non-kognitif).
+Yang belum banyak diketahui, sudah banyak sekali literatur yang menyebutkan bahwa CA juga bersyarat, meskipun kemudian banyak peneliti tetap aja menggunakan CA tanpa membaca terms &amp; condition-nya terlebih dahulu."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-09-09T00:00:00&#43;07:00">
@@ -466,7 +468,27 @@
           <h1 itemprop="name">Dari Alfa ke Omega</h1>
 
           <div class="article-style" itemprop="articleBody">
-            
+            <p>Tidak ada teknik estimasi reliabilitas yang populernya melebihi <em>Cronbach&rsquo;s α</em> (CA). Di nyaris seluruh laporan penelitian yang kita baca, penulis hampir selalu melaporkan CA sebagai teknik yang mereka gunakan untuk mengestimasi reliabilitas skala. Menariknya, penggunaan CA tidak hanya terbatas di riset-riset Psikologi saja, melainkan juga digunakan di banyak penelitian di displin ilmu lainnya yang menggunakan asesmen/skala psikologis (baik kognitif, maupun non-kognitif).</p>
+
+<p>Yang belum banyak diketahui, sudah banyak sekali literatur yang menyebutkan bahwa CA juga bersyarat, meskipun kemudian banyak peneliti tetap aja menggunakan CA tanpa membaca <em>terms &amp; condition</em>-nya terlebih dahulu.</p>
+
+<p>Secara singkat, CA adalah teknik mengestimasi reliabilitas dengan pendekatan konsistensi internal, yang berarti pengujian skala hanya perlu dilakukan sekali saja pada satu kelompok sampel. Berbeda dengan pendekatan tes paralel dan <em>test-retest</em> yang memerlukan setidaknya dua (bahkan lebih) kali pengujian skala dan kelompok sampel yang berbeda. CA hanya dapat dilakukan pada <a href="https://doi.org/10.1037/met0000144" target="_blank">empat kondisi</a> (yang sangat rigid), yaitu:</p>
+
+<ul>
+<li>Konstruk harus unidimensional, sehingga kalau yang terjadi sebaliknya, CA tidak dapat digunakan.</li>
+<li>Konstruk harus memenuhi asumsi <em>tau equivalence</em>, yaitu kondisi dimana setiap aitem memiliki <em>factor loading</em> yang identik. Artinya, setiap aitem <strong>harus sama kontribusinya</strong> (<em>covariance</em>) dalam menjelaskan konstruk. NOTE: ini adalah kondisi yang utopis, tidak mungkin terjadi 😄.</li>
+<li>Data harus berdistribusi normal dan <em>continous</em>. Ingat, kalau peneliti menggunakan skala Likert, maka datanya sudah pasti bentuknya ordinal (atau mentok ya <em>quasi-interval</em> kalau <em>response type</em>-nya seperti <em>semantic differential</em>), sehingga otomatis tidak bisa memenuhi syarat ini.</li>
+<li>Setiap aitem harus independen, sehingga <em>error</em> nya tidak boleh berkorelasi.</li>
+</ul>
+
+<p>Nah, mengingat keempat asumsi ini tidak terpenuhi, maka estimasi CA yang dilakukan dalam kondisi yang tidak memenuhi syarat akan <a href="http://doi.wiley.com/10.1111/bjop.12046" target="_blank">cenderung lebih rendah atau tidak konsisten</a> dari yang sebenarnya. Alternatif yang tersedia adalah menggunakan <a href="https://pdfs.semanticscholar.org/f2e2/00613f941874d7ae3a1e880dad3d82503cc7.pdf" target="_blank"><em>hierachical ω</em></a>, <a href="https://link.springer.com/article/10.1007/BF02289858" target="_blank"><em>ω total</em></a>, atau <a href="https://link.springer.com/article/10.1007/BF02289858" target="_blank"><em>Greatest Lower Bound</em></a> (GLB). Diantara ketiganya, ω dianggap <a href="https://doi.org/10.1007/s11336-008-9102-z" target="_blank">yang terbaik</a>.</p>
+
+<p>Nah, untuk kali ini, saya akan mendemonstrasikan cara menghitung koefisien Omega dengan menggunakan <a href="https://jasp-stats.org/download/" target="_blank">JASP</a> dan R (package <code>psych</code> dan <code>MBESS</code>). Kedua <em>software</em> tersebut <em>open-source</em>, sehingga siapapun dapat mengaksesnya tanpa harus membayar biaya langganan. SPSS tidak menyediakan fitur untuk mengestimasi ω dan semoga ini menambah motivasi untuk tidak menggunakan SPSS lagi 😄.</p>
+
+<p><em>Wallahu a&rsquo;lam bishawab</em></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoVSkJ8u7JQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
           </div>
 
           
