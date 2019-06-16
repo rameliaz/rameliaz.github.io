@@ -5,8 +5,18 @@
     <description>Recent content in @ameliazein on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 14:00:00 +0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Q&amp;A Tutorial</title>
+      <link>/post/qa-tutorial/</link>
+      <pubDate>Sun, 16 Jun 2019 14:00:00 +0700</pubDate>
+      
+      <guid>/post/qa-tutorial/</guid>
+      <description>&lt;p&gt;Silahkan bertanya apa saja yang berkaitan dengan tutorial atau materi yang ada di laman ini. Saya akan berusaha untuk memberikan respon sesegera mungkin. 😄&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Kesehatan Mental Komunitas</title>
@@ -337,18 +347,6 @@ Available slides: &lt;br&gt;
       <description>&lt;p&gt;This workshop was organised per request of the Dean of Faculty of Psychology with the aim to improve faculties&amp;rsquo; methodological skills.&lt;/p&gt;
 
 &lt;p&gt;Slides are licensed &lt;a href=&#34;https://creativecommons.org&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/a&gt;, so everyone is welcome to share and reproduce the slides.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Workshop Statistik dengan jamovi</title>
-      <link>/talk/jamovi-2018/</link>
-      <pubDate>Sun, 30 Sep 2018 11:45:00 +0700</pubDate>
-      
-      <guid>/talk/jamovi-2018/</guid>
-      <description>&lt;p&gt;Lisensi materi menggunakan &lt;a href=&#34;https://creativecommons.org&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fab fa-creative-commons&#34;&gt;&lt;/i&gt;&lt;/a&gt;, sehingga siapapun dapat menggunakan dan mereproduksi ulang materi ini.&lt;/p&gt;
-
-&lt;p&gt;Berikut adalah &lt;a href=&#34;https://osf.io/k2a98/&#34; target=&#34;_blank&#34;&gt;tautan ke halaman &lt;em&gt;project&lt;/em&gt;&lt;/a&gt; di &lt;i class=&#34;ai ai-osf&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
 </description>
     </item>
     
