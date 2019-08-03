@@ -506,6 +506,14 @@
     
     <url>
     
+      <loc>/courses/st_matrikulasi-mapsi/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
