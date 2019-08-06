@@ -5,8 +5,18 @@
     <description>Recent content in @ameliazein on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2019 14:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 11:45:00 +0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Menulis Artikel Populer dari Karya Ilmiah</title>
+      <link>/talk/populer-2019/</link>
+      <pubDate>Thu, 08 Aug 2019 11:45:00 +0700</pubDate>
+      
+      <guid>/talk/populer-2019/</guid>
+      <description>&lt;p&gt;Materi ini adalah bagian dari workshop yang diselenggarakan oleh DSI Unair. Untuk mengunduh slide materi, klik opsi &lt;code&gt;pdf&lt;/code&gt; sedangkan untuk mengakses kode yang digunakan untuk membuat presentasi, silahkan klik &lt;code&gt;code&lt;/code&gt;. Materi berlisensi &lt;code&gt;r fa(&amp;quot;creative-commons&amp;quot;)&lt;/code&gt; 1.0 (&lt;em&gt;public domain&lt;/em&gt;). Materi bebas digunakan kembali tanpa ada kewajiban menyebutkan sumber aslinya.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>(Banyak) Alasan Mengapa #SIPS2019 Bukan Konferensi Biasa</title>
@@ -368,15 +378,6 @@ Available slides: &lt;br&gt;
       <guid>/talk/mlm-2019/</guid>
       <description>&lt;p&gt;This workshop is a part of the events organised by Department of Personality and Social Pscyhology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga. Slides will become available soon.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Protecting those who care: The characteristics of occupational Tuberculosis risk in health care workers</title>
-      <link>/publication/protectingtb/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/protectingtb/</guid>
-      <description></description>
     </item>
     
   </channel>
