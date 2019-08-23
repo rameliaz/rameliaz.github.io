@@ -6,10 +6,19 @@
     <description>Recent content in Courses on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0700</lastBuildDate>
     
 	<atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Methodology and Data Analysis of Quantitative Research</title>
+      <link>/courses/cm_quantitative-research/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/courses/cm_quantitative-research/</guid>
+      <description>This course aims to provide general background and basic principles of doing quantitative research in Psychology. Students are equipped with basic research and data analysis skills. Students learn how to formulate research questions, coming up with a proper research design according to their questions, collecting data, preparing and analysing research data, and lastly, reporting all research cycle adhering to APA Manual Guidelines. I also raised an issue about ensuring reproducibility when conducting research.</description>
+    </item>
     
     <item>
       <title>Matrikulasi Mapsi - Konstruksi Alat Ukur</title>
