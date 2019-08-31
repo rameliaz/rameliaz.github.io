@@ -5,8 +5,30 @@
     <description>Recent content in @ameliazein on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Melaporkan Hasil Negatif</title>
+      <link>/courses/st_neg-result/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0700</pubDate>
+      
+      <guid>/courses/st_neg-result/</guid>
+      <description>&lt;p&gt;Berikut adalah tutorial bagaimana cara menginterpretasi &lt;em&gt;p-value&lt;/em&gt; dan melaporkan hasil uji hipotesis yang menunjukkan &lt;em&gt;p-value&lt;/em&gt; lebih dari &lt;em&gt;α&lt;/em&gt; (0.05).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Salindia&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;100%&#34; height=&#34;500&#34; src=&#34;https://hackmd.io/@ameliazein/hasil-negatif/&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Video Tutorial&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/brDKVshvzl0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Wallahu a&amp;rsquo;lam bishawab&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;NB: Untuk pertanyaan, komentar atau yang lainnya, silahkan &lt;a href=&#34;https://rameliaz.github.io/post/qa-tutorial&#34; target=&#34;_blank&#34;&gt;klik disini&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Methodology and Data Analysis of Quantitative Research</title>
@@ -341,16 +363,6 @@ Available slides: &lt;br&gt;
       <description>&lt;p&gt;Hi everyone! Welcome to my &lt;strong&gt;very first&lt;/strong&gt; personal website. I&amp;rsquo;m so excited when figuring out that &lt;code&gt;blogdown&lt;/code&gt; package is easier to manage than I previously thought. I&amp;rsquo;ll regularly post my random thoughts here, either in Bahasa or in English. As a bonus, here I present a photo of &lt;a href=&#34;https://en.wikipedia.org/wiki/Urquhart_Castle&#34; target=&#34;_blank&#34;&gt;Urquhart Castle&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Loch_Ness&#34; target=&#34;_blank&#34;&gt;Loch Ness&lt;/a&gt; from my solo trip to Inverness - just shortly after my master graduation. I fell in love with this place and was thinking about Scotland when I wrote this first post. I miss Edinburgh (and Scotland, in general) and really hope to be able to come back one day.&lt;/p&gt;
 
 &lt;p&gt;Hope you all have a wonderful day! 😄&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multigroup Structural Equation Modelling with JASP</title>
-      <link>/talk/mgsem-2019/</link>
-      <pubDate>Wed, 13 Feb 2019 11:45:00 +0700</pubDate>
-      
-      <guid>/talk/mgsem-2019/</guid>
-      <description>&lt;p&gt;This workshop is a part of the events organised by Department of Personality and Social Pscyhology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga. Slides will become available soon.&lt;/p&gt;
 </description>
     </item>
     
