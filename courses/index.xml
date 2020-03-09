@@ -6,10 +6,20 @@
     <description>Recent content in Courses on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0700</lastBuildDate>
     
 	<atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Personality Psychology (AMERTA)</title>
+      <link>/courses/cm_personality-psych_amerta/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0700</pubDate>
+      
+      <guid>/courses/cm_personality-psych_amerta/</guid>
+      <description>The course aims to encourage students to familiarize themselves with most common personality theories, by exploring its common ground, core arguments, and real-life evidences. Students are therefore provided with opportunity to obtain the idea how personality is measured and evaluated.
+By the end of this course, students should be capable of: - Identifying core assumptions of several notable personality theories (inner psychic and trait paradigm)  - Corroborating personality theories to the real context through text (autobiography) and scientific evidences - Being familiar to a limited range of options to measure personality</description>
+    </item>
     
     <item>
       <title>Melaporkan Hasil Negatif</title>
@@ -69,7 +79,8 @@ By the end of this course, students should be able to: - Identify particular cha
       
       <guid>/courses/course-materials/</guid>
       <description>I will share all materials from all undergraduate courses I taught here to the public. Slides are under the license of , so everyone is welcome to share and reproduce the slides.
-Here is the list of my taught courses in 2019:
+Here is the list of my taught courses in
+2019
 Even Semester (2018&amp;frasl;2019)
 - Personality Psychology (Double Degree Programme - taught in English)  - Quantitative Research Method and Data Analysis - Community Mental Health  - Philosophy of Science - Human Philosophy</description>
     </item>
