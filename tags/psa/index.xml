@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PSA on @ameliazein</title>
-    <link>/tags/psa/</link>
+    <link>https://rameliaz.github.io/tags/psa/</link>
     <description>Recent content in PSA on @ameliazein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0700</lastBuildDate>
     
-	<atom:link href="/tags/psa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rameliaz.github.io/tags/psa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Moral Thinking Across the World [PSA006]</title>
-      <link>/project/external-project/</link>
+      <link>https://rameliaz.github.io/project/external-project/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0700</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>https://rameliaz.github.io/project/external-project/</guid>
       <description>This is a Psychological Science Accelerator project investigating moral reasoning.</description>
     </item>
     
