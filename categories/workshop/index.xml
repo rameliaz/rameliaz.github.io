@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Rizqy Amelia Zein</title>
+    <link>/categories/workshop/</link>
+    <description>Recent content in Workshop on Rizqy Amelia Zein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Oct 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menulis Pembahasan dan Abstrak dalam Artikel Ilmiah</title>
+      <link>/talk/2022-usd/</link>
+      <pubDate>Sat, 01 Oct 2022 05:00:00 +0000</pubDate>
+      <guid>/talk/2022-usd/</guid>
+      <description>Slides are licensed , so everyone is welcome to share and reproduce the slides.</description>
+    </item>
+    <item>
+      <title>Multigroup Structural Equation Modelling Workshop</title>
+      <link>/talk/2019-mgsem/</link>
+      <pubDate>Fri, 22 Nov 2019 09:00:00 +0000</pubDate>
+      <guid>/talk/2019-mgsem/</guid>
+      <description>This workshop is a part of the events organised by Department of Personality and Social Pscyhology to commemorate the 36th Anniversary of Faculty of Psychology Universitas Airlangga.</description>
+    </item>
+    <item>
+      <title>Multilevel Modeling/Linear Mixed Effects Workshop</title>
+      <link>/talk/2019-mlm/</link>
+      <pubDate>Wed, 04 Sep 2019 08:00:00 +0000</pubDate>
+      <guid>/talk/2019-mlm/</guid>
+      <description>Berikut adalah repositori yang digunakan untuk menyimpan semua materi untuk Workshop Confirmatory Factor Analysis yang diselenggarakan oleh Fakultas Psikologi, Universitas Negeri Semarang.&#xA;Materi berlisensi Creative Commons BY 4.0. Materi bebas digunakan kembali namun wajib mengatribusi sumber aslinya.</description>
+    </item>
+    <item>
+      <title>Statistical Power Workshop</title>
+      <link>/talk/2018-power/</link>
+      <pubDate>Fri, 05 Oct 2018 10:00:00 +0000</pubDate>
+      <guid>/talk/2018-power/</guid>
+      <description>This workshop was organised per request of the Dean of Faculty of Psychology with the aim to improve faculties&amp;rsquo; methodological skills.&#xA;Slides are licensed , so everyone is welcome to share and reproduce the slides.</description>
+    </item>
+    <item>
+      <title>A Brief Intro to Psychological Research</title>
+      <link>/talk/2018-camp-s3/</link>
+      <pubDate>Sat, 11 Aug 2018 13:00:00 +0000</pubDate>
+      <guid>/talk/2018-camp-s3/</guid>
+      <description>This event was the part of PhD student orientation camp (Batch 2018) and I delivered three different topics, which were a) APA&amp;rsquo;s journal article reporting standard; b) An introduction to scientific publications; and c) Replication crisis and #OpenScience movement in Psychology.&#xA;Slides are licensed , so everyone is welcome to share and reproduce the slides.</description>
+    </item>
+  </channel>
+</rss>
