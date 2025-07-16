@@ -23,31 +23,24 @@
       <description></description>
     </item>
     <item>
-      <title>Theme Features</title>
-      <link>/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evergreen</title>
-      <link>/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/categories/evergreen/</guid>
+      <title>Package</title>
+      <link>/categories/package/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/categories/package/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/categories/r/</guid>
       <description></description>
     </item>
     <item>
-      <title>Package</title>
-      <link>/categories/package/</link>
+      <title>Theme Features</title>
+      <link>/categories/theme-features/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/categories/package/</guid>
+      <guid>/categories/theme-features/</guid>
       <description></description>
     </item>
   </channel>
