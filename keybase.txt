@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rameliaz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rameliaz.github.io
+  * I am rameliaz (https://keybase.io/rameliaz) on keybase.
+  * I have a public key ASDl3yKmVMlGX7fmDYYrXszhYGtZhxElZnd4OWVFNHr3JQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e5df22a654c9465fb7e60d862b5ecce1606b59871125667778396545347af7250a",
+      "host": "keybase.io",
+      "kid": "0120e5df22a654c9465fb7e60d862b5ecce1606b59871125667778396545347af7250a",
+      "uid": "108096b9c2f07722cd1ae73e458adc19",
+      "username": "rameliaz"
+    },
+    "merkle_root": {
+      "ctime": 1788806361,
+      "hash": "136aaf54d20fe53a1a02ed988a02af4b62a71ec6ae22e2205f0e46b85cd5e2d1301076e2306691b016fbe4f337d07e03bd610c0fe67802d86995a0669d05a8d9",
+      "hash_meta": "8b052a33bf5b3f045243bf4830b6cfae569f6efdd44d3a5ac1ecfbf9d26f97cf",
+      "seqno": 27762021
+    },
+    "service": {
+      "entropy": "JLLKE2fGeG0aU/N56h1fRJj6",
+      "hostname": "rameliaz.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.3"
+  },
+  "ctime": 1788806464,
+  "expire_in": 504576000,
+  "prev": "7cc64d15085e623b7716c8d112436b108b4e66d7dd9559b303838b874f78e14e",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5d8iplTJRl+35g2GK17M4WBrWYcRJWZ3eDllRTR69yUKp3BheWxvYWTESpcCBcQgfMZNFQheYjt3FsjREkNrEItOZtfdlVmzA4OLh0944U7EIGHdkXvA9GhewTyCoMiupOeduT4Q8OGkiBvvpbbWsT+MAgHCo3NpZ8RAP7KIC9g6ZYzqpCq59dfzvj3kkgVsBCWNA0wTSZNnuqLYrbFyNBSqJ7FTaRDQpJ6TW71tkKKBPy9bfXgv22VfDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFA9HQp2f12XvuzRYKxKHDJda2t2UTleoyR+kJEAR0QIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rameliaz
+
+==================================================================
